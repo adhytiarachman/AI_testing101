@@ -1,0 +1,15 @@
+{
+  "crawl_timestamp": "2026-01-17T20:53:36.225172",
+  "total_urls": 3,
+  "success_count": 3,
+  "fail_count": 0,
+  "peak_memory_mb": 100,
+  "output_directory": "crawl_20260117_205327",
+  "results": [
+    {
+      "url": "https://www.docling.ai/",
+      "success": true,
+      "timestamp": "2026-01-17T20:53:36.174297",
+      "markdown_length": 2372,
+      "markdown_preview": "## D\n![](https://www.docling.ai/img/logo.svg)\n## CLING\n  * [Start](https://www.docling.ai/#start)\n  * [Features](https://www.docling.ai/#features)\n  * [ Docs ](https://docling-project.github.io/docling \"Documentation\")[ Chat ](https://app.dosu.dev/097760a8-135e-4789-8234-90c8837d7f1c/ask?utm_source=github \"Chat with Dosu\")\n\n[ ![](https://www.docling.ai/img/github.svg) ](https://github.com/docling-project/docling \"GitHub\")\n###  Docling converts messy documents into structured data and simplifies ...",
+      "title": 
