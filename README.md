@@ -79,7 +79,7 @@ https://github.com/unclecode/crawl4ai
 </details>
 
 ---
-🧠 Repository Philosophy
+## 🧠 Repository Philosophy
 - Framework-agnostic: No single tool dominates the repository
 - Hands-on first: Emphasis on runnable examples and outputs
 - Real-world mindset: Each experiment is treated as a building block, not a toy example
